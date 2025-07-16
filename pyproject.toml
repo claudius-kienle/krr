@@ -62,3 +62,4 @@ build-backend = "poetry.core.masonry.api"
 
 [project]
 name = "robusta_krr"
+version = "0.0.1"
